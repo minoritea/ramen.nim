@@ -1,6 +1,8 @@
 # Ramen
 Ramen is a programming language.
 
+Original version(written in Go) is [here](https://github.com/akanoren/ramens)
+
 ## Install
 You need nim and nimble to install the binary.
 ```
